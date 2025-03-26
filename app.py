@@ -12,7 +12,7 @@ from wordcloud import WordCloud
 # Load Dataset
 @st.cache_data
 def load_data():
-    # url = "https://www.kaggleusercontent.com/datasets/jessicali9530/kuc-hackathon-winter-2018/downloads/drugsComTrain_raw.tsv"
+    
     data = pd.read_csv("drugsComTest_raw.csv")
     data['date'] = pd.to_datetime(data['date'], errors='coerce')
     return data
