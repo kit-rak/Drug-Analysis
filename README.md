@@ -28,7 +28,7 @@ The dataset used for this project is available on Kaggle:
 ## ⚡ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/drug-analysis.git
+git clone https://github.com/kit-rak/drug-analysis.git
 cd drug-analysis
 ```
 
