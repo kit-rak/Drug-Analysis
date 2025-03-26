@@ -51,6 +51,5 @@ streamlit run app.py
 ## 📬 Contact
 - **LinkedIn:** [kit-rak](https://www.linkedin.com/in/kit-rak)
 - **GitHub:** [kit-rak](https://github.com/kit-rak)
-- **Email:** kartikvp27@gmail.com
 
 🚀 **Happy Analyzing!**
