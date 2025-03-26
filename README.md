@@ -14,11 +14,11 @@ This project is a **Streamlit-based dashboard** for analyzing drug reviews, perf
 - **Libraries:** Streamlit, Pandas, Matplotlib, Seaborn, TextBlob, Scikit-Learn, Prophet, WordCloud
 - **Machine Learning Models:** Sentiment Analysis & Time-Series Forecasting
 
-## 📂 File Structure
-
 ## 📊 Dataset
 The dataset used for this project is available on Kaggle:
 [Drug Reviews Dataset - KUC Hackathon Winter 2018](https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018)
+
+## 📂 File Structure
 ```
 ├── app.py                  # Main Streamlit app
 ├── requirements.txt        # Dependencies
