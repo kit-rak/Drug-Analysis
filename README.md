@@ -48,6 +48,13 @@ streamlit run app.py
 3. **Generate word clouds** for drug reviews.
 4. **Predict future usage trends** with Prophet.
 
+## 🗀 Interface Preview
+
+Here’s how the app looks in action:
+
+![App Screenshot](/assets/Drug-Analysis-1.jpg)
+![App Screenshot](/assets/Drug-Analysis-2.jpg)
+
 ## 📬 Contact
 - **LinkedIn:** [kit-rak](https://www.linkedin.com/in/kit-rak)
 - **GitHub:** [kit-rak](https://github.com/kit-rak)
