@@ -53,6 +53,7 @@ streamlit run app.py
 Here’s how the app looks in action:
 
 ![App Screenshot](/assets/Drug-Analysis-1.jpg)
+
 ![App Screenshot](/assets/Drug-Analysis-2.jpg)
 
 ## 📬 Contact
