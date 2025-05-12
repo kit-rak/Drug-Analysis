@@ -1,4 +1,4 @@
-# Drug Sentiment Analysis Dashboard
+# 💊 Drug Sentiment Analysis Dashboard
 
 ## 📌 Project Overview
 This project is a **Streamlit-based dashboard** for analyzing drug reviews, performing **sentiment analysis**, and predicting future drug usage trends. It uses **NLP, data visualization, and time-series forecasting** to provide insights into drug effectiveness and user sentiments.
